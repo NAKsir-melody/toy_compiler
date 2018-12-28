@@ -1,0 +1,15 @@
+This is stcak based toy compiler
+
+1.Supported opertaion
+ADD
+SUB
+PUSH
+DUP
+DROP
+PRINT
+
+2. Supported operand: 
+only numeric
+
+3. Output binary name: a.out
+executable for bash
